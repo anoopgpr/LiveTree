@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>229018021693-54bpd5ol9a0k0e4o76boefron2gbl86o.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.229018021693-54bpd5ol9a0k0e4o76boefron2gbl86o</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBL9GdTJ2TJ_6yhl9nNhp34ps9wCSOpL1s</string>
+	<key>GCM_SENDER_ID</key>
+	<string>229018021693</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mobiquest.windmills</string>
+	<key>PROJECT_ID</key>
+	<string>windmill-bfce3</string>
+	<key>STORAGE_BUCKET</key>
+	<string>windmill-bfce3.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:229018021693:ios:d5eb5ff62a0f37a0e59f54</string>
+	<key>DATABASE_URL</key>
+	<string>https://windmill-bfce3.firebaseio.com</string>
+</dict>
+</plist>

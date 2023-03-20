@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "229018021693",
+    "firebase_url": "https://windmill-bfce3.firebaseio.com",
+    "project_id": "windmill-bfce3",
+    "storage_bucket": "windmill-bfce3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229018021693:android:34497f709e4aad60e59f54",
+        "android_client_info": {
+          "package_name": "com.mobiquest.windmills"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "229018021693-1vk4rabnjp8tdbinveum3tgerg4ol2b9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqhpW2IL-nj3rYwdpUdWXAqqmsgO9aTv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "229018021693-1vk4rabnjp8tdbinveum3tgerg4ol2b9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "229018021693-8lm6jn8uphvgs7qdjmj1hoflotim2fbl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mobiquest.windmill"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
